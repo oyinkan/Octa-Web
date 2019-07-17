@@ -1,0 +1,447 @@
+@media screen and (max-width: 350px) {
+    #savings-wrapper h2 {
+        width: auto;
+        font-size: 40px!important;
+    }
+    .terms h1 {
+        font-size: 36px!important;
+    }
+    .terms h5, .terms p, .terms h6 {
+        font-size: 16px!important;
+    }
+    .btn.btn-login,
+    .btn.btn-create {
+        float: right;
+    }
+    .whatwedo .carousel-indicators {
+        left: -40%!important;
+    }
+}
+@media screen and (max-width: 387px) {
+    .form-inline .btn.btn-login,
+    .form-inline .btn.btn-create {
+        float: right;
+    }
+    .whatwedo h3 {
+        font-size: 40px!important;
+    }
+    .howitworks p {
+        width: auto;
+    }
+}
+@media screen and (max-width: 470px) {
+    .signup-div .signup-details {
+        width: 75%;
+    }
+    .signup-details p {
+        width: auto;
+        font-size: 22px;
+    }
+    .signup-details label,
+    .signup-details input {
+        font-size: 19px;
+    }
+    .signup-details .btn.btn-next,
+    .signup-details span {
+        font-size: 22px;
+        height: auto;
+    }
+    .signup-getapp h6 {
+        font-size: 40px;
+    }
+    #savings-wrapper {
+        margin-bottom: -85px;
+    }
+    .whatwedo #demo .carousel-indicators {
+        left: -54%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .savings-box {
+        height: 290px!important;
+    }
+    octa-advantage h3 {
+        font-size: 36px;
+    }
+    .about-box img,
+    #save-wrapper p {
+        width: 100%;
+    }
+    .about p,
+    #motivation p,
+    #get-the-app h6 {
+        width: 90%;
+    }
+    .about h2 {
+        font-size: 50px;
+    }
+    .panel-title > a {
+        font-size: 16px;
+    }
+    .panel-body {
+        font-size: 15px;
+        width: auto;
+    }
+    .question h5 {
+        font-size: 30px;
+    }
+    .previous {
+        float: left;
+        margin-top: -39px;
+    }
+    .signin-details h6,
+    #octa-advantage p,
+    .howitworks h5,
+    #octa-advantage p.safely {
+        width: auto;
+    }
+    .btn.btn-options {
+        font-size: 20px;
+    }
+    .btn.btn-options i {
+        right: 10px;
+        top: 15px;
+    }
+    .terms h1,
+    #save-wrapper h1,
+    .features-wrapper h2 {
+        font-size: 45px;
+    }
+    .terms h3,
+    #octa-advantage h5 {
+        font-size: 24px;
+    }
+    .terms h5,
+    .terms p,
+    .terms h6,
+    .btn.btn-create.btn-start {
+        font-size: 18px;
+    }
+    .panel-default {
+        padding: 10px;
+    }
+    .testimonial-wrapper .carousel-control-prev {
+        left: 33.5%!important;
+    }
+    #get-the-app h5 {
+        font-size: 40px;
+    }
+    .whatwedo .carousel-indicators {
+        left: -60%;
+    }
+    footer h6 {
+        margin-top: 20px;
+    }
+}
+@media screen and (min-width: 471px) and (max-width: 600px) {
+    .whatwedo #demo .carousel-indicators {
+        left: -60%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .savings-box {
+        height: 350px!important;
+    }
+    .no-show {
+        display: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    .vacation,
+    .rent,
+    .business,
+    .education {
+        display: block;
+    }
+    .whatwedo img {
+        display: none;
+    }
+    .whatwedo .carousel-indicators {
+        bottom: 9%;
+    }
+    #savings-wrapper h5 {
+        width: 85%;
+    }
+    #save-wrapper img {
+        margin-top: 0;
+    }
+    .relative-position {
+        margin-top: 130px;
+        margin-bottom: 30px;
+    }
+    .save-image {
+        left: 25px;
+    }
+    .iphone-image {
+        top: -20px;
+    }
+    .mt-130, .mt-140 {
+        margin-top: 40px;
+    }
+    .multiple p {
+        margin-left: 0;
+    }
+    .address-details,
+    .mt-90,
+    .mt-60 {
+        margin-top: 30px;
+    }
+    .question {
+        width: 90%;
+    }
+    .question h5 {
+        font-size: 34px;
+    }
+    .btn.btn-info.btn-options,
+    .btn.btn-info.btn-next {
+        font-size: 24px;
+    }
+    .question p {
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .success-div {
+        width: 90%;
+    }
+    .success-div h6 {
+        font-size: 35px;
+    }
+    .success-div p {
+        width: 90%;
+        font-size: 18px;
+    }
+    .btn.btn-download {
+        font-size: 18px;
+    }
+    .btn.btn-share {
+        font-size: 15px;
+    }
+    .panel-text {
+        width: auto;
+    }
+    .vision-div {
+        margin-top: 15px;
+    }
+    .testimonial-wrapper .carousel-control-prev {
+        left: 35.5%;
+    }
+    .whatwedo .carousel-indicators {
+        left: -67%;
+    }
+    .whatwedo h3 {
+        font-size: 50px;
+    }
+    .howitworks p {
+        margin-bottom: 40px;
+    }
+    #get-the-app {
+        background: url(./../images/gettheapp.svg);
+    }
+}
+@media screen and (max-width: 850px) {
+    #savings-wrapper h2 {
+        font-size: 50px;
+        line-height: 1.00;
+    }
+    .signin-details {
+        width: auto;
+    }
+    .signup-div .signup-details {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 991px) {
+    .navbar .navbar-nav .nav-link {
+        padding-left: 20px!important;
+        padding-right: 0;
+        text-align: right;
+    }
+    .form-inline {
+        display: block;
+        float: right;
+    }
+}
+@media screen and (min-width: 770px) and (max-width: 1050px) {
+    .whatwedo h3 {
+        font-size: 40px;
+    }
+    .whatwedo h5 {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+    .whatwedo .carousel-indicators {
+        bottom: 9%;
+    }
+}
+@media screen and (min-width: 770px) and (max-width: 1200px) {
+    .multiple p {
+        margin-left: 0;
+    }
+    .whatwedo .carousel-indicators {
+        left: -75%;
+    }
+}
+@media screen and (min-width: 950px) and (max-width: 1200px) {
+    .savings-box {
+        height: 330px;
+    }
+}
+@media screen and (min-width: 1201px) {
+    .savings-box {
+        height: 300px;
+    }
+}
+@media screen and (min-width: 950px) and (max-width: 1100px) {
+    .navbar .navbar-nav .nav-link {
+        padding-left: 40px!important;
+        padding-right: 40px!important;  
+    }
+}
+
+@media screen and (min-width: 770px) and (max-width: 1100px) {
+    .ml--35 {
+        margin-left: -10px;
+    }
+    .signin-details {
+        width: auto;
+    }
+    .btn.btn-options {
+        font-size: 20px;
+    }
+    .btn.btn-options i {
+        right: 5px;
+        top: 15px;
+    }
+    .panel-title span,
+    .panel-text {
+        left: -10px;
+    }
+}
+
+@media screen and (min-width: 1110px) and (max-width: 1355px) {
+    #savings-wrapper h2 {
+        font-size: 57px;
+    }
+    #savings-wrapper p {
+        width: 90%;
+    }
+    .signin-details h6 {
+        width: auto;
+    }
+    .panel-title span,
+    .panel-text {
+        left: -25px;
+    }
+}
+
+@media (min-width: 768px) {
+  .testimonial-wrapper .carousel-inner .active,
+  .testimonial-wrapper .carousel-inner .active + .carousel-item,
+  .testimonial-wrapper .carousel-inner .active + .carousel-item + .carousel-item {
+    display: block;
+  }
+
+  .testimonial-wrapper .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+  .testimonial-wrapper .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)
+    + .carousel-item,
+  .testimonial-wrapper .carousel-inner
+    .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left)
+    + .carousel-item
+    + .carousel-item {
+    transition: none;
+  }
+
+  .testimonial-wrapper .carousel-inner .carousel-item-next,
+  .testimonial-wrapper .carousel-inner .carousel-item-prev {
+    position: relative;
+    transform: translate3d(0, 0, 0);
+  }
+
+  .testimonial-wrapper .carousel-inner
+    .active.carousel-item
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
+    position: absolute;
+    top: 0;
+    right: -33.3333%;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+  }
+
+ .testimonial-wrapper  .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+  .testimonial-wrapper .carousel-item-next.carousel-item-left + .carousel-item,
+  .testimonial-wrapper .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
+  .testimonial-wrapper .carousel-item-next.carousel-item-left
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+
+  .testimonial-wrapper .carousel-inner .carousel-item-prev.carousel-item-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+  }
+
+  
+  .testimonial-wrapper .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+  .testimonial-wrapper .carousel-item-prev.carousel-item-right + .carousel-item,
+  .testimonial-wrapper .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
+  .testimonial-wrapper .carousel-item-prev.carousel-item-right
+    + .carousel-item
+    + .carousel-item
+    + .carousel-item {
+    position: relative;
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+    display: block;
+    visibility: visible;
+  }
+}
+
+@media screen and (max-width: 480px) {
+    .panel-title span,
+    .panel-text {        
+        left: -10px;
+    }
+    /*.panel-title span {
+        top: 0;
+    }*/
+
+}
+@media screen and (min-width: 580px) and (max-width: 715px) {
+    .panel-title span,
+    .panel-text {        
+        left: -10px;
+    }
+    /*.panel-title span {
+        top: 0;
+    }*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
